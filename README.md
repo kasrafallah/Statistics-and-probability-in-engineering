@@ -5,5 +5,5 @@ Statistics and probability in engineering is one of the courses from undergradua
 you could find codes and read me in [above folder](https://github.com/kasrafallah/Statistics-and-probability-in-engineering/tree/main/project)
 
 #### assingment's 
-all of them are in above folder
+you could find all of them are in above folder
 
