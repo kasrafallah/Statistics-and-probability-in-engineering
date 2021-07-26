@@ -1,0 +1,2 @@
+# Statistics-and-probability-in-engineering
+Statistics and probability in engineering is one of the courses from undergraduate chart that you can find all of my projects and assignment's in this repositore 
